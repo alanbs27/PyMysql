@@ -1,2 +1,2 @@
 # PyMysql
- Conexão de um banco de dados MySQL com python 
+## Construindo uma Conexão de um banco de dados MySQL com python 
